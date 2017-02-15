@@ -1,0 +1,11 @@
+{
+  "name": "great-h_connpass_event_creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/great-h/great-h_connpass_event_creator",
+  "author": "Tomohiko Himura <eiel.hal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zombie": "^5.0.5"
+  }
+}
